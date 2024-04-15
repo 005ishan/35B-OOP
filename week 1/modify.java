@@ -1,3 +1,5 @@
+package week1;
+
 public class modify {
     /*Extend/Modify the above program to print two additional lines:
 
