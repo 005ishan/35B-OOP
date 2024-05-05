@@ -12,7 +12,7 @@ public class task4 {
         System.out.println("*");
         System.out.println("**");
         System.out.println("***");
-        System.out.println("**** */");
+        System.out.println("****");
 
     }
 }
